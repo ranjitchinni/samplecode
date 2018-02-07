@@ -40,7 +40,7 @@ public class ChildClass extends Parent{
 		p.mary();
 		p.property();
 		
-		
+		System.out.println("added here");
 	}
 
 }
