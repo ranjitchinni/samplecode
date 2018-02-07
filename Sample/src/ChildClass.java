@@ -25,7 +25,7 @@ public class ChildClass extends Parent{
 	}
 	public void m2()
 	{
-		System.out.println("child");
+		System.out.println("child5");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
